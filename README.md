@@ -2,7 +2,7 @@
 Hope you're having a great day!
 - 😄 I’m JB (Jeongbeom) Lee from S.Korea 🇰🇷.
 - 🏫 I’m currently a Junior, majoring in Informatics (Economics) at the University of Iowa. Go Hawks!
-- 🌱 I’m currently learning  <img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white"/>
+- 🌱 I’m currently learning   <img src="https://img.shields.io/badge/리액트-61DAFB?style=flat&logo=React&logoColor=white"/>
 
 
 
